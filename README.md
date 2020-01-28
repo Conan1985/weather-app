@@ -10,3 +10,6 @@ Four scenaries are handled in this app:
 ## How to build and run locally?
 * Run `npm install` and `node server.js'.
 * Go to `localhost:4200` in your browser.
+
+Here is a demo of my app:
+![Weather application demo](demo.mov)
